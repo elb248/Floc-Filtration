@@ -1,5 +1,7 @@
 # Floc-Filtration
 
+Working on engineering a system to recycle flocs. 
+
 **Fall 2022 Team**
 
 Sarah Bae ssb238@cornell.edu
