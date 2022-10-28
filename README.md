@@ -1,4 +1,4 @@
-# Floc-Filtration
+# floc_filtration
 
 Working on engineering a system to recycle flocs. 
 
