@@ -1,7 +1,6 @@
 # floc_filtration
 
-Determining the effectiveness of breaking up flocs to assess potential for recycling. 
-Working on engineering a system to recycle flocs. 
+Working on engineering a system to recycle flocs in a floc filter. 
 
 **Fall 2022 Team**
 
