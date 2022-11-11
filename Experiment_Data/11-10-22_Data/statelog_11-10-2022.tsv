@@ -1,0 +1,4 @@
+Day fraction since midnight on 11/10/2022	 State ID	 State name	 Rule that caused previous state to end
+0.38780821	0	CUWFP Basin Pump ON	Operator changed the state
+0.49056250	1	Run Floc Filt (Startup)	Operator changed the state
+0.82389832	2	Run Floc FIlt (Recycle)	Startup
