@@ -2,6 +2,22 @@
 
 Working on engineering a system to recycle flocs from the floc filter in a clarifier. 
 
+**Spring 2023 Team**
+
+Sarah Bae ssb238@cornell.edu
+
+Isabel Crovella isc25@cornell.edu
+
+Joshua Luoma jjl364@cornell.edu
+
+Yongjin Lee yl2889@cornell.edu
+
+[Spring 2023 Report]()
+
+[Spring 2023 Symposium Presentation]()
+
+[Spring 2023 Final Presentation]()
+
 **Fall 2022 Team**
 
 Sarah Bae ssb238@cornell.edu
