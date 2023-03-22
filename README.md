@@ -14,7 +14,7 @@ Yongjin Lee yl2889@cornell.edu
 
 [Spring 2023 Report]()
 
-[Spring 2023 Symposium Presentation]()
+[Spring 2023 Symposium Presentation](https://docs.google.com/presentation/d/e/2PACX-1vR66umxP-wrbdqrUel3P0ml12ynTAjBu_Cu5VTH388ZH5-6KoVlf7WFYTRPFP7QYelpY5Bwwc91aipz/pub?start=false&loop=false&delayms=3000)
 
 [Spring 2023 Final Presentation]()
 
