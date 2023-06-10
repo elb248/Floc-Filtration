@@ -12,11 +12,11 @@ Joshua Luoma jjl364@cornell.edu
 
 Yongjin Lee yl2889@cornell.edu
 
-[Spring 2023 Report]()
+[Spring 2023 Report](https://docs.google.com/document/d/e/2PACX-1vQbe2d_udAdqcTTwb2c1bnL89Y_lcu1RAd85CHS2NUu2maOM9dGpqckxaOjxDAB1RUZtuy3VeS9mt8j/pub)
 
 [Spring 2023 Symposium Presentation](https://docs.google.com/presentation/d/e/2PACX-1vR66umxP-wrbdqrUel3P0ml12ynTAjBu_Cu5VTH388ZH5-6KoVlf7WFYTRPFP7QYelpY5Bwwc91aipz/pub?start=false&loop=false&delayms=3000)
 
-[Spring 2023 Final Presentation]()
+[Spring 2023 Final Presentation](https://docs.google.com/presentation/d/e/2PACX-1vTd3uvB5MjobSg4xqtFgfoRbHARmfy3ltfk17rKVa5weCPVzd9QDEBTFI6eeiDMt0XDdVFELl-J1mU_/pub?start=true&loop=true&delayms=5000)
 
 **Fall 2022 Team**
 
