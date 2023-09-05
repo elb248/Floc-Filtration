@@ -2,6 +2,10 @@
 
 Working on engineering a system to recycle flocs from the floc filter in a clarifier. 
 
+**Fall 2023 Team**
+
+Elizabeth Bunker elb248@cornell.edu
+
 **Spring 2023 Team**
 
 Sarah Bae ssb238@cornell.edu
